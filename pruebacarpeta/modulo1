@@ -1,0 +1,11 @@
+#1. Llamada a un método de una instancia de clase:
+
+class MiClase:
+    def mi_metodo(self):
+        print("¡Hola desde mi método!")
+
+# Crear una instancia de la clase
+objeto = MiClase()
+
+# Llamar al método utilizando la instancia
+objeto.mi_metodo()

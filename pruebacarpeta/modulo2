@@ -1,0 +1,9 @@
+#2. Llamada a un método de una clase sin instanciar:
+
+class MiClase:
+    @classmethod
+    def mi_metodo_de_clase(cls):
+        print("¡Hola desde el método de clase!")
+
+# Llamar al método de clase sin instanciar la clase
+MiClase.mi_metodo_de_clase()

@@ -1,0 +1,11 @@
+#4. Llamada a un método con argumentos:
+
+class MiClase:
+    def saludar(self, nombre):
+        print(f"Hola, {nombre}!")
+
+# Crear una instancia de la clase
+objeto = MiClase()
+
+# Llamar al método con argumentos
+objeto.saludar("Felix")

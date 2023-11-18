@@ -1,0 +1,14 @@
+#5. Llamada a un método de una clase heredada:
+
+class ClaseBase:
+    def mi_metodo(self):
+        print("¡Hola desde el método de la clase base!")
+
+class ClaseDerivada(ClaseBase):
+    pass
+
+# Crear una instancia de la clase derivada
+objeto_derivado = ClaseDerivada()
+
+# Llamar al método de la clase base desde la clase derivada
+objeto_derivado.mi_metodo()
