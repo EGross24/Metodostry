@@ -1,0 +1,26 @@
+Nombre|Duración|Género|Descripción|Director
+Guardians of the Galaxy Vol. 3|2 horas 30 minutos|Acción, Aventura, Comedia|Los Guardianes de la Galaxia deben enfrentarse a un nuevo y poderoso enemigo.|James Gunn
+Misión Imposible: Sentencia Mortal - Parte 1|2 horas 40 minutos|Acción, Aventura|Ethan Hunt y su equipo deben impedir que un grupo terrorista desencadene un holocausto nuclear.|Christopher McQuarrie
+Oppenheimer|2 horas 30 minutos|Drama, Historia|El científico J. Robert Oppenheimer lidera el Proyecto Manhattan, el esfuerzo de los Estados Unidos para desarrollar la bomba atómica.|Christopher Nolan
+Super Mario Bros. La película|1 hora 45 minutos|Animación, Aventura, Comedia|Mario, Luigi y Princesa Peach deben salvar el Reino Champiñón de Bowser.|Aaron Horvath, Michael Jelenic
+Indiana Jones 5|2 horas 30 minutos|Acción, Aventura, Misterio|Indiana Jones regresa para una nueva aventura.|James Mangold
+The Flash|2 horas 30 minutos|Acción, Aventura, Ciencia ficción|Barry Allen debe viajar en el tiempo para salvar a su madre.|Andy Muschietti
+Ant-Man y la Avispa: Quantumanía 3D|2 horas|Acción, Aventura, Ciencia ficción|Scott Lang y Hope van Dyne deben enfrentarse a un nuevo enemigo.|Peyton Reed
+John Wick 4|2 horas 30 minutos|Acción, Crimen|John Wick debe vengarse de los hombres que mataron a su perro.|Chad Stahelski
+Renfield|1 hora 50 minutos|Terror, Comedia|Renfield, el sirviente de Drácula, se enamora de una mujer humana.|Chris McKay
+Calabozos & Dragones: Honor entre ladrones|2 horas|Acción, Aventura, Fantasía|Un grupo de aventureros debe encontrar un tesoro perdido.|Jonathan Goldstein, John Francis Daley
+Shazam! Fury of the Gods|1 hora 45 minutos|Acción, Aventura, Comedia|Billy Batson y sus hermanos deben enfrentarse a un nuevo enemigo.|David F. Sandberg
+Barbie|2 horas|Comedia, Musical|Barbie, una muñeca de plástico, se embarca en una aventura en el mundo real.|Greta Gerwig
+Scream 6|1 hora 45 minutos|Terror|Los supervivientes de la masacre de Woodsboro deben enfrentarse a un nuevo asesino.|Matt Bettinelli-Olpin, Tyler Gillett
+Llaman a la Puerta|1 hora 30 minutos|Terror|Un matrimonio se muda a una nueva casa y comienza a recibir llamadas telefónicas amenazantes.|Eli Craig
+Cacería en Venecia|1 hora 45 minutos|Drama|Un hombre de negocios americano se ve envuelto en una red de corrupción en Venecia.|Michael Mann
+Elementos|1 hora 30 minutos|Comedia|Un grupo de amigos viajan a una isla remota para celebrar una despedida de soltero.|Jon Lucas, Scott Moore
+La sirenita|2 horas|Musical, Fantasía|Ariel, una sirena, se enamora de un príncipe humano.|Rob Marshall
+The Marvels|2 horas 30 minutos|Acción, Aventura, Ciencia ficción|Carol Danvers, Kamala Khan y Monica Rambeau se unen para luchar contra un nuevo enemigo.|Nia DaCosta
+Evil Dead: El Despertar|1 hora 30 minutos|Terror|Un grupo de jóvenes debe enfrentarse a un espíritu maligno.|Lee Cronin
+Rápidos y Furiosos 10|2 horas 30 minutos|Acción, Crimen|Dominic Toretto y su equipo se enfrentan a un nuevo enemigo.|Justin Lin
+La Monja II|1 hora 45 minutos|Terror|La monja Valak regresa para una nueva misión.|Gary Dauberman
+Blue Beetle|1 hora 45 minutos|Acción, Aventura, Ciencia ficción|Jaime Reyes se convierte en el superhéroe Blue Beetle.|Ángel Manuel Soto
+Los Juegos del Hambre: Balada de pájaros cantores y serpientes|2 horas 30 minutos|Ciencia ficción, Thriller|La historia de un joven Coriolanus Snow, muchos años antes de convertirse en el tiránico presidente de Panem.|Francis Lawrence
+Black Friday|2 horas|Terror, Acción|Un grupo de amigos se ven atrapados en un centro comercial durante un Black Friday violento.|Andy Muschietti
+Los mercenarios 4|2 horas 30 minutos|Acción, Aventura|Los mercenarios regresan para una última misión.|Scott Wau
